@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 👋, I'm Shreyansh Varshney
+
+I am a software engineer focusing on developing full stack web applications that solve problems with a strong user focus. 
 
 <!--
 **shreyanshvarshney/shreyanshvarshney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
